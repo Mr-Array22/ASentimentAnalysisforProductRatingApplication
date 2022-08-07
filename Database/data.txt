@@ -1,0 +1,2 @@
+mostafa@mo.com as admin ,password=123456
+mostafa22@gmail.com as user,password 12345
